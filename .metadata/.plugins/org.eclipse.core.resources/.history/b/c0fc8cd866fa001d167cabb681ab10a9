@@ -1,0 +1,13 @@
+package com.alura.jdbc.dao;
+
+import java.sql.Connection;
+
+public class CategoriaDAO {
+
+	public CategoriaDAO(Connection recuperaConexion) {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public List<Categoria> listar() {}
+
+}

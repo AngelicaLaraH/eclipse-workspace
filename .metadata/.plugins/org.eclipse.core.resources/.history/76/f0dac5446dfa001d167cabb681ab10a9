@@ -1,0 +1,6 @@
+package com.alura.jdbc.modelo;
+
+public class Categoria {
+	private Integer id;
+	private String nombre;
+}

@@ -1,0 +1,12 @@
+package com.latam.alura.tienda.prueba;
+
+import com.latam.alura.tienda.modelo.Producto;
+
+public class RegistroDeProducto {
+
+	public static void main(String[] args) {
+		Producto celular = new Producto();
+
+	}
+
+}
